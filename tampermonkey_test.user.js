@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Pokiba
-// @version      v1.2
-// @updateURL    https://github.com/Zained/test_tp/blob/cb770b1df31e15e45b3f1eaeb4c8d484686517f8/test_tp.user.js
-// @downloadURL  https://github.com/Zained/test_tp/blob/cb770b1df31e15e45b3f1eaeb4c8d484686517f8/test_tp.user.js
+// @version      1.2
+// @updateURL    https://github.com/Zained/test_tp/blob/main/tampermonkey_test.user.js
+// @downloadURL  https://github.com/Zained/test_tp/blob/main/tampermonkey_test.user.js
 // @include      http://cohiba.aramisauto.com*
 // @include      https://cohiba.aramisauto.com*
 // @include      http://cohiba.aramisauto.com/s/vo/vehicle*
@@ -18,7 +18,7 @@
 // ==/UserScript==
 
 const scriptname = 'POKIBA';
-const version = 'v1.2';
+const version = 'AAA';
 const utc = new Date().toJSON().replace(/\"/g, "").slice(0, 10);
 console.log(utc);
 
