@@ -5,8 +5,8 @@
 // @include      https://github.com/*
 // @include      https://gist.github.com/*
 // @icon         https://github.githubassets.com/pinned-octocat.svg
-// @updateURL    https://raw.githubusercontent.com/Zained/Github-userscripts/master/tampermonkey_test.user.js
-// @downloadURL  https://raw.githubusercontent.com/Zained/Github-userscripts/master/tampermonkey_test.user.js
+// @updateURL    https://raw.githubusercontent.com/Zained/test_tp/master/tampermonkey_test.user.js
+// @downloadURL  https://raw.githubusercontent.com/Zained/test_tp/master/tampermonkey_test.user.js
 // @include      http://cohiba.aramisauto.com*
 // @include      https://cohiba.aramisauto.com*
 // @include      http://cohiba.aramisauto.com/s/vo/vehicle*
