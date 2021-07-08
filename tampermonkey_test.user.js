@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Pokiba
 // @version      1.2
-// @updateURL    https://github.com/Zained/test_tp/blob/main/tampermonkey_test.user.js
-// @downloadURL  https://github.com/Zained/test_tp/blob/main/tampermonkey_test.user.js
+// @updateURL    https://raw.githubusercontent.com/Zained/Github-userscripts/master/tampermonkey_test.user.js
+// @downloadURL  https://raw.githubusercontent.com/Zained/Github-userscripts/master/tampermonkey_test.user.js
 // @include      http://cohiba.aramisauto.com*
 // @include      https://cohiba.aramisauto.com*
 // @include      http://cohiba.aramisauto.com/s/vo/vehicle*
