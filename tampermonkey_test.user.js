@@ -1,6 +1,10 @@
 // ==UserScript==
 // @name         Pokiba
 // @version      1.2
+// @namespace    https://github.com/Zained
+// @include      https://github.com/*
+// @include      https://gist.github.com/*
+// @icon         https://github.githubassets.com/pinned-octocat.svg
 // @updateURL    https://raw.githubusercontent.com/Zained/Github-userscripts/master/tampermonkey_test.user.js
 // @downloadURL  https://raw.githubusercontent.com/Zained/Github-userscripts/master/tampermonkey_test.user.js
 // @include      http://cohiba.aramisauto.com*
